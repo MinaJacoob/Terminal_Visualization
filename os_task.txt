@@ -1,0 +1,15 @@
+This is our first Operating Systems task, and this is the manual page for it
+
+Team members are -:
+
+Yassen Hatem Mehrez
+
+Andrew Amir Lotfy
+
+Mina Mofreh Tawfik
+
+John Nabil Takla
+
+Eyad Muhammed Shokry
+
+Hopefully you've had an enjoyable time reading this manual page.
